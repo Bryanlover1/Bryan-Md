@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*BRYANT-MD AVAILABLE MENUS* 
+*BRYAN-MD AVAILABLE MENUS* 
 ╭─────────────────✣
 │❒⁠⁠⁠⁠╭─────────────✣
 │❒⁠⁠⁠⁠│▸ *MENU1* 
@@ -42,22 +42,22 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *PLUGINS* : ${cm.length} 
 │❒⁠⁠⁠⁠│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠│▸ *SAVER* : ${os.platform()}
-│❒⁠⁠⁠⁠│▸ *THEME* : *❣️𝙱𝚁𝚈𝙰𝙽𝚃 𝚃𝙴𝙲𝙷❣️*
+│❒⁠⁠⁠⁠│▸ *THEME* : *❣️𝙱𝚁𝚈𝙰𝙽 𝚃𝙴𝙲𝙷❣️*
 │❒⁠⁠⁠⁠╰──────────────✇
 ╰──────────────────✇\n`;
     
 let menuMsg = `
 ╭─────────❒⁠⁠⁠⁠
-   *𝙼𝙰𝙳𝙴 𝙱𝚈 𝙱𝚁𝚈𝙰𝙽𝚃 𝚃𝙴𝙲𝙷.𝙸𝙽𝙲😌*
+   *𝙼𝙰𝙳𝙴 𝙱𝚈 𝙱𝚁𝚈𝙰𝙽 𝚃𝙴𝙲𝙷.𝙸𝙽𝙲😌*
 ╰─────────❒
-   ⁠⁠⁠⁠◔͜͡◔MADE EASY BY BRYANT TECH◔͜͡◔
+   ⁠⁠⁠⁠◔͜͡◔MADE EASY BY BRYAN TECH◔͜͡◔
 ╰───────────────────⏣`;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryantmd*, déveloper Bryant Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryantmd*, déveloper Bryan Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -67,7 +67,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryantmd*, déveloper Bryant Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryanmd*, déveloper Bryan Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
