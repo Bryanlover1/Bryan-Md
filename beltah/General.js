@@ -54,12 +54,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "👨‍💻" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "BRYANT", numero: "233530729233" },
-      { nom: "᚛BRYANTXTECH᚜", numero: "94784192378" },
+      { nom: "BRYAN", numero: "233538733413" },
+      { nom: "᚛BRYAN TECH᚜", numero: "233263176982" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "BE HOLD THE POWER YOU WILL NEVER AQUIRE! ASK FOR HELP FROM  THE DEVELOPERS BELOW:\n\n";
+    let message = "THIS IS NOT THE POWER OF YOUR CREATION! ASK FOR HELP FROM  THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -93,7 +93,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING BRYANT-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@BrysntXtech] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝚇(𝙱𝚁𝚈𝙰𝙽𝚃)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
+  repondre("THANK YOU FOR CHOOSING BRYAN-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/Bryan tech] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝚇(𝙱𝚁𝚈𝙰𝙽)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BRYANT-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
