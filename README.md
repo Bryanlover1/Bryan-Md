@@ -10,11 +10,11 @@
   </p>
 <div align="center">
 
-| [![BRYANT TECH](https://telegra.ph/file/9f0a735f0587490f6aa44.jpg)](https://github.com/Bryanlover1)|
+| [![BRYAN TECH](https://telegra.ph/file/9f0a735f0587490f6aa44.jpg)](https://github.com/Bryanlover1)|
 |--------|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗕𝗥𝗬𝗔𝗡-𝗠𝗗+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗕𝗥𝗬𝗔𝗡-𝗠𝗗" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗕𝗥𝗬𝗔𝗡 𝗧𝗘𝗖𝗛-blue.svg?style=for-the-badge&logo=github"></a>
