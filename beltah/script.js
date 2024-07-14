@@ -32,7 +32,7 @@ function _0x5403() {
         '35660asHjob',
         'i.github.c',
         'defineProp',
-        '𝘽𝙍𝙔𝘼𝙉𝙏\x20𝙏𝙀𝘾',
+        '𝘽𝙍𝙔𝘼𝙉\x20𝙏𝙀𝘾',
         'https://ap',
         'SIT\x20FOR\x20TU',
         '\x20REPOSITO',
@@ -77,7 +77,7 @@ function _0x5403() {
         'om/repos/B',
         'dee6cc7597',
         'en-GB',
-        'm/@BryantXtec',
+        'm/Bryan tec',
         '1375650kPEVMp',
         'https://te',
         '_count',
@@ -105,13 +105,13 @@ function _0x5403() {
         'erty',
         'keFBU',
         'ile/dcce2d',
-        'ryant-md',
+        'ryan-md',
         '\x20\x0a❒⁠⁠⁠⁠\x20*F',
         '\x0a❒⁠⁠⁠⁠\x20*VI',
         'ant\x20tech◆',
         'updated_at',
         '_______\x0a\x20◆',
-        'AM\x20Bryant-',
+        'AM\x20Bryan-',
         '\x20> Hello,I\x20'
     ];
     _0x5403 = function () {
