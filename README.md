@@ -37,6 +37,10 @@
 
 <a href="https://bmw-xmd-251b102dfbde.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
+**CLICK HERE 👇 TO Pair 2**
+
+<a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-blur" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+
 **CLICK HERE 👇 TO SCAN QR**
 
 <a href="https://bmw-xmd-251b102dfbde.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
