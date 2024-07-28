@@ -45,6 +45,10 @@
 
 <a href="https://bmw-xmd-251b102dfbde.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
+**CLICK HERE 👇 TO SCAN CODE 2**
+
+<a href="https://ibrahim-tech-qr-1-2-1.onrender.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-pink" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
  
