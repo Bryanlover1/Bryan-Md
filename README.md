@@ -58,6 +58,9 @@
 
 👨‍💻REACH BRYAN-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/233263176982)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/Bryan_lover1) 
 
+## 📛 `OWNER` 
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="Bryan Tech"/></a>
+
 ## CONTRIBUTIONS
 
 Contributions to BRYAN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
