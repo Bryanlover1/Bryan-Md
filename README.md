@@ -90,12 +90,8 @@ The WhatsApp Bot 𝗕𝗥𝗬𝗔𝗡 𝗠𝗗 is released under the [MIT Licens
 ## DEVELOPERS :
 
 - [**BRYAN TECH**](https://github.com/Bryanlover1)
-- [**BELTAH TECH**](https://github.com/Beltahmd)
-
-  [**VENCYBER**]
-  (https://github.com/Kingjux)
-
-  [**Bryant Tech**]
-  (https://github.com/Elsa2090) 
-
+- [**BELTAH TECH**](https://github.com/Beltahmd) 
+- [**BRYANT TECH**](https://github.com/Elsa2090)
+- [**VENCYBER**](https://github.com/Kingjux)
+   
 ★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚇(𝙱𝚁𝚈𝙰𝙽-𝚃𝙴𝙲𝙷)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
