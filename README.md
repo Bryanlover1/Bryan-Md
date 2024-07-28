@@ -73,6 +73,15 @@
 
 Contributions to BRYAN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
+### DEVELOPER:
+**GET In Touch with The Owner**
+- <a href="https://instagram.com/Bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+- OR 
+- <a href="https://wa.me/233263176982" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
   ## THANKS TO MY FELLOW DEV FOR;
 
     [FRANCE KING] 
