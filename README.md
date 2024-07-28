@@ -35,7 +35,7 @@
 
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://bmw-xmd-251b102dfbde.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
@@ -69,6 +69,10 @@ Who helped in commands addition
      
 Thanks for helping me 🙇; <br>
 
+     [VENCYBER MD] 
+     
+FOR session ID generation <br>
+    
 ## License
 
 The WhatsApp Bot 𝗕𝗥𝗬𝗔𝗡 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
