@@ -61,6 +61,14 @@
 ## 📛 `OWNER` 
 <a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="Bryan Tech"/></a>
 
+## `CREDITS` 
+<div><button id="boton" type="button">Baileys - By Bryan Tech & Bryant Tech</button></div>
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="150" height="150" alt="adiwajshing"/></a>
+<div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
+<a href="https://github.com/Kingjux"><img src="https://github.com/Kingjux.png" width="150" height="150" alt="Xeon"/></a>
+
+
+
 ## CONTRIBUTIONS
 
 Contributions to BRYAN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
