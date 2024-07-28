@@ -107,9 +107,8 @@ The WhatsApp Bot 𝗕𝗥𝗬𝗔𝗡 𝗠𝗗 is released under the [MIT Licens
 
 🌟 THANK YOU FOR CHOOSING 𝗕𝗥𝗬𝗔𝗡-𝗠𝗗🌟
 
-## DEVELOPERS :
-
-- [**BRYAN TECH**](https://github.com/Bryanlover1)
-- [**BELTAH TECH**](https://github.com/Beltahmd) 
+## 🏷️ `Contributer` 
+<a href="https://github.com/Beltahmd"><img src="https://github.com/Beltahmd.png" width="250" height="250" alt="BELTAH"/></a>
+  
    
 ★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚇(𝙱𝚁𝚈𝙰𝙽-𝚃𝙴𝙲𝙷)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
