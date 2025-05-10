@@ -24,6 +24,60 @@
 <a href="https://github.com/Bryanlover1/Bryan-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryanlover1/Bryan-md?&style=social"></a>
 <a href="https://github.com/Bryanlover1/Bryan-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bryanlover1/Bryan-md?style=social"></a>
 <a href="https://github.com/Bryanlover1/Bryan-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bryanlover1/Bryan-md?label=Watching&style=social"></a>
+
+## TERMUX/UBUNTU
+_First Of All Fork The Repo Then You'll Be Able To Do All The Remaining Steps.Add environment variables in config.env and config.js then run
+following commands_
+```
+apt update && apt -y upgrade
+```
+```
+apt install proot-distro
+```
+```
+proot-distro install ubuntu
+```
+```
+proot-distro login ubuntu
+```
+```
+apt-get update && apt-get -y full-upgrade
+```
+```
+apt install -y sudo
+```
+```
+sudo apt -y install git ffmpeg curl imagemagick webp
+```
+```
+sudo apt -y remove nodejs
+curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
+```
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - 
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt -y update && sudo apt -y install yarn
+```
+```
+sudo yarn global add pm2
+```
+_Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
+
+```
+git clone https://github.com/Bryanlover1/Bryan-Md/tree/main
+```
+```
+cd Bryan md
+```
+```
+npm install
+```
+```
+npm start
+```
+  
+ ---
+ 
   
 ## SETUP FOR BRYAN MD
 
