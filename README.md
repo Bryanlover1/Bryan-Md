@@ -43,7 +43,7 @@
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://bmw-xmd-251b102dfbde.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://dd0907a9-43c3-4a8c-a961-b9530555207e-00-36v4ub9hqpgau.kirk.replit.dev/qr"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN CODE 2**
 
