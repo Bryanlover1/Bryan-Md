@@ -35,7 +35,7 @@
 
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://bmw-xmd-251b102dfbde.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://dd0907a9-43c3-4a8c-a961-b9530555207e-00-36v4ub9hqpgau.kirk.replit.dev/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO Pair 2**
 
