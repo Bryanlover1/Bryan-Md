@@ -101,7 +101,7 @@ npm start
 
 **CLICK HERE 👇 TO SCAN CODE 2**
 
-<a href="https://ibrahim-tech-qr-1-2-1.onrender.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-pink" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://replit.com/@uminato456/IBRAHIM-V30KE"><img src="https://img.shields.io/badge/Pair%20session%20code-pink" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
@@ -110,7 +110,7 @@ npm start
 
  ## CONTACT DEVELOPER
 
-👨‍💻REACH BRYAN-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/233263176982)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/Bryan_lover1) 
+👨‍💻REACH BRYAN-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/233538733413)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/Bryan_lover1) 
 
 ## 📛 `OWNER` 
 <a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="Bryan Tech"/></a>
